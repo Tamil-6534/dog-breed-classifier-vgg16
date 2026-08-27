@@ -47,17 +47,17 @@ The model can accurately distinguish between the following 10 breeds:
 
 ### 1. Clone the Repository
 
-Bash
+```bash
 git clone https://github.com/Tamil-6534/dog-breed-classifier-vgg16.git
-
+```
 
 
 2. Install Required Dependencies
 Make sure you have Python 3.10+ installed, then run:
 
-Bash
+```bash
 pip install streamlit tensorflow pillow numpy
-
+```
 
 
 3. Model Weight File
@@ -65,9 +65,9 @@ Ensure your trained model file vgg16_dog_breeds.h5 is placed in the root directo
 
 🎈 How to Run the App
 Launch the Streamlit web application by executing:
-Bash
+```bash
 python -m streamlit run app.py
-
+```
 
 👨‍💻 Author
 Tamil Arasan
