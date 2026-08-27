@@ -69,6 +69,9 @@ Launch the Streamlit web application by executing:
 python -m streamlit run app.py
 ```
 
+🌐 **Live Demo:** https://dog-breed-classifier-vgg16-3qffz3own6kfm9sg4ipa6r.streamlit.app/
+
+
 # 👨‍💻 Author
 Tamil Arasan
 
