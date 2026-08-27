@@ -69,7 +69,7 @@ Launch the Streamlit web application by executing:
 python -m streamlit run app.py
 ```
 
-👨‍💻 Author
+# 👨‍💻 Author
 Tamil Arasan
 
 Deep Learning & Computer Vision Project
